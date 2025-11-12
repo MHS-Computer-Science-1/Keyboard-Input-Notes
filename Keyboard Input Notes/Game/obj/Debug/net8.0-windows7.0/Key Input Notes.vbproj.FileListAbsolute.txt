@@ -1,0 +1,18 @@
+C:\Users\foxrw\Source\Repos\Keyboard-Input-Notes\Keyboard Input Notes\Game\bin\Debug\net8.0-windows7.0\Key Input Notes.exe
+C:\Users\foxrw\Source\Repos\Keyboard-Input-Notes\Keyboard Input Notes\Game\bin\Debug\net8.0-windows7.0\Key Input Notes.deps.json
+C:\Users\foxrw\Source\Repos\Keyboard-Input-Notes\Keyboard Input Notes\Game\bin\Debug\net8.0-windows7.0\Key Input Notes.runtimeconfig.json
+C:\Users\foxrw\Source\Repos\Keyboard-Input-Notes\Keyboard Input Notes\Game\bin\Debug\net8.0-windows7.0\Key Input Notes.dll
+C:\Users\foxrw\Source\Repos\Keyboard-Input-Notes\Keyboard Input Notes\Game\bin\Debug\net8.0-windows7.0\Key Input Notes.pdb
+C:\Users\foxrw\Source\Repos\Keyboard-Input-Notes\Keyboard Input Notes\Game\obj\Debug\net8.0-windows7.0\Game.Form1.resources
+C:\Users\foxrw\Source\Repos\Keyboard-Input-Notes\Keyboard Input Notes\Game\obj\Debug\net8.0-windows7.0\Game.Resources.resources
+C:\Users\foxrw\Source\Repos\Keyboard-Input-Notes\Keyboard Input Notes\Game\obj\Debug\net8.0-windows7.0\Key Input Notes.vbproj.GenerateResource.cache
+C:\Users\foxrw\Source\Repos\Keyboard-Input-Notes\Keyboard Input Notes\Game\obj\Debug\net8.0-windows7.0\Key Input Notes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foxrw\Source\Repos\Keyboard-Input-Notes\Keyboard Input Notes\Game\obj\Debug\net8.0-windows7.0\Key Input Notes.AssemblyInfoInputs.cache
+C:\Users\foxrw\Source\Repos\Keyboard-Input-Notes\Keyboard Input Notes\Game\obj\Debug\net8.0-windows7.0\Key Input Notes.AssemblyInfo.vb
+C:\Users\foxrw\Source\Repos\Keyboard-Input-Notes\Keyboard Input Notes\Game\obj\Debug\net8.0-windows7.0\Key Input Notes.vbproj.CoreCompileInputs.cache
+C:\Users\foxrw\Source\Repos\Keyboard-Input-Notes\Keyboard Input Notes\Game\obj\Debug\net8.0-windows7.0\Key Input Notes.sourcelink.json
+C:\Users\foxrw\Source\Repos\Keyboard-Input-Notes\Keyboard Input Notes\Game\obj\Debug\net8.0-windows7.0\Key Input Notes.dll
+C:\Users\foxrw\Source\Repos\Keyboard-Input-Notes\Keyboard Input Notes\Game\obj\Debug\net8.0-windows7.0\refint\Key Input Notes.dll
+C:\Users\foxrw\Source\Repos\Keyboard-Input-Notes\Keyboard Input Notes\Game\obj\Debug\net8.0-windows7.0\Key Input Notes.pdb
+C:\Users\foxrw\Source\Repos\Keyboard-Input-Notes\Keyboard Input Notes\Game\obj\Debug\net8.0-windows7.0\Key Input Notes.genruntimeconfig.cache
+C:\Users\foxrw\Source\Repos\Keyboard-Input-Notes\Keyboard Input Notes\Game\obj\Debug\net8.0-windows7.0\ref\Key Input Notes.dll
